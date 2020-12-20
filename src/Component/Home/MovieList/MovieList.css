@@ -1,0 +1,19 @@
+img.movie_image {
+    width: 100%;
+    height: 212px;
+}
+a.single-movie {
+    width: 100%;
+    background: #00abbc;
+    color: white;
+}
+.book-a-seat-button  {
+    width: 100%;
+    color: white !important;
+    padding: 10px !important;
+    text-decoration: none;
+}
+h2.MuiTypography-root.movie-name.MuiTypography-h5.MuiTypography-gutterBottom {
+    color: #00abbc;
+    font-weight: 700;
+}

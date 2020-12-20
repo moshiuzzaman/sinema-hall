@@ -1,11 +1,16 @@
+import { Container } from '@material-ui/core';
 import React from 'react';
 import MenuBar from '../Menubar/MenuBar';
+import MovieList from '../MovieList/MovieList';
+import './Home.css'
 
 const Home = () => {
     return (
-        <div>
+        <Container>
             <MenuBar/>
-        </div>
+            <img className='home-benner' src="https://image.shutterstock.com/image-vector/cinema-banners-260nw-454172866.jpg" alt=""/>
+            <MovieList/>
+        </Container>
     );
 };
 

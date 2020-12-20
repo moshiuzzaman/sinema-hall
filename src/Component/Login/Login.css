@@ -1,0 +1,27 @@
+img.login-logo {
+    width: 200px;
+}
+.login-section {
+    width: 550px;
+    border: 1px solid;
+    padding: 150px 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 46px #d5d1d1;
+}
+button.login-button.btn.btn-primary {
+    display: block;
+    width: 100%;
+    background: none !important;
+    color: black;
+    border: 1px solid;
+    border-radius: 200px;
+    padding: 11px;
+}
+span.create-account {
+    color: blue;
+    cursor: pointer;
+}
+svg.login-button-icon {
+    float: left;
+    font-size: 25px;
+}

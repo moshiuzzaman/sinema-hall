@@ -1,0 +1,28 @@
+
+svg.movie_Seat {
+    font-size: 94px;
+}
+.sitBooking_Model {
+    background: white;
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    padding: 25px;
+}
+.Houseful_Model{
+    text-align: center;
+     background: white;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 25px;
+}
+.bookSeatPageHeader.d-flex.align-items-center.justify-content-center {
+    background: #00abbc;
+    color: white;
+    text-transform: uppercase;
+    padding: 85px;
+}
+svg.available-seat.movie_Seat {
+    cursor: pointer;
+}
